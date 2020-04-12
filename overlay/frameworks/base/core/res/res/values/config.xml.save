@@ -557,4 +557,5 @@
 
     <!-- Button brightness -->
     <bool name="config_button_brightness_support">true</bool>
-</resources>
+    <integer name="config_button_brightness_default">128</integer> </resources>
+-
